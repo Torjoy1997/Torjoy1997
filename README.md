@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Flutter E-commerece App](https://github.com/Torjoy1997/Flutter_TShop_Demo)
 
-- 🌱 I’m currently learning **Advance Ui interaction and Data Managment with Flutter**
+- 🌱 I’m currently learning **Docker and Advance Ui interaction and Data Managment with Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Torjoy1997?tab=repositories](https://github.com/Torjoy1997?tab=repositories)
 
